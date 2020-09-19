@@ -1,3 +1,1 @@
-hello-world
-
-This is a repository for coursera projects.
+## This is a markdown file
